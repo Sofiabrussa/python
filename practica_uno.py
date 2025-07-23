@@ -52,4 +52,5 @@ if __name__ == '__main__':
     proceso2.join()
     proceso3.join()
 
-    print("Todos los procesos finalizaron")
+    
+
